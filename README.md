@@ -38,9 +38,8 @@ odin-recipes/
 
 1.  Clone the repository to your local machine (if you haven't already):
     ```bash
-    git clone git@github.com:your-username/odin-recipes.git
-    ```
-    (Remember to replace `your-username` with your actual GitHub username)
+    git clone git@github.com:paulorabelo/odin-recipes.git
+    ```    
 2.  Navigate into the project folder:
     ```bash
     cd odin-recipes
